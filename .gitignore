@@ -3,3 +3,5 @@
 /hardware/ldo-1/Project Logs for ldo-1/
 __Previews/
 /hardware/__Previews/
+/hardware/source/*.log
+/hardware/source/*.raw
