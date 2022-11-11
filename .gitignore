@@ -1,3 +1,8 @@
+__Previews/
+/hardware/__Previews/
+/hardware/source/*.log
+/hardware/source/*.raw
+/hardware/source/*.net
 /hardware/History/
 /hardware/ldo-1/History/
 /hardware/ldo-1/Project Logs for ldo-1/
@@ -7,7 +12,5 @@
 /hardware/pwm-tl494/Project Logs for pwm-tl494/
 /hardware/pwm-sg3525a/History/
 /hardware/pwm-sg3525a/Project Logs for pwm-sg3525a/
-__Previews/
-/hardware/__Previews/
-/hardware/source/*.log
-/hardware/source/*.raw
+/hardware/control_block/History/
+/hardware/control_block/Project Logs for control_block/
