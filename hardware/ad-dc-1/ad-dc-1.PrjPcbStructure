@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=p1_main_ac_dc.SchDoc
+Record=TopLevelDocument|FileName=p1_apfc_and_standby.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=p1_apfc_and_standby.SchDoc|FileName=p2_half_bridge.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=p1_apfc_and_standby.SchDoc|FileName=p3_fan_regulator.SchDoc|SheetNumber= 
