@@ -4,13 +4,23 @@ __Previews/
 /hardware/source/*.raw
 /hardware/source/*.net
 /hardware/History/
+
 /hardware/ldo-1/History/
 /hardware/ldo-1/Project Logs for ldo-1/
+/hardware/ldo-1/Project Outputs for do-1/
+
 /hardware/ad-dc-1/History/
 /hardware/ad-dc-1/Project Logs for ad-dc-1/
+/hardware/ad-dc-1/Project Outputs for ad-dc-1/
+
 /hardware/pwm-tl494/History/
 /hardware/pwm-tl494/Project Logs for pwm-tl494/
+/hardware/pwm-tl494/Project Outputs for pwm-tl494/
+
 /hardware/pwm-sg3525a/History/
 /hardware/pwm-sg3525a/Project Logs for pwm-sg3525a/
+/hardware/pwm-sg3525a/Project Outputs for pwm-sg3525a/
+
 /hardware/control_block_raspberry_pi_pico/History/
 /hardware/control_block_raspberry_pi_pico/Project Logs for control_block_raspberry_pi_pico/
+/hardware/control_block_raspberry_pi_pico/Project Outputs for control_block_raspberry_pi_pico/
