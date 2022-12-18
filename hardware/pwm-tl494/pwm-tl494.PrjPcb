@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXRWSFTC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pwm-tl494\Design Rule Check - pwm-tl494.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

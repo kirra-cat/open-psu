@@ -1117,10 +1117,11 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=VCC_380V|NetColor=$005426D6
-Net2=NetName=VCC_NONISO_12V0P|NetColor=$00BA6F8C
-Net3=NetName=VCC_STANDBY_12V0N|NetColor=$00E2745F
-Net4=NetName=VCC_STANDBY_12V0P|NetColor=$003042C6
+Net1=NetName=HALF_VS|NetColor=$008133DB
+Net2=NetName=VCC_380V|NetColor=$005426D6
+Net3=NetName=VCC_NONISO_12V0P|NetColor=$00BA6F8C
+Net4=NetName=VCC_STANDBY_12V0N|NetColor=$00E2745F
+Net5=NetName=VCC_STANDBY_12V0P|NetColor=$003042C6
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
