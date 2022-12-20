@@ -1052,7 +1052,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=1
 SortLocation=0
-ReplaceSubparts=0
+ReplaceSubparts=1
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
