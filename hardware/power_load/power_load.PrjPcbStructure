@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=power_load.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=mcu_and_input_power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=mcu_and_input_power.SchDoc|FileName=power_load.SchDoc|SheetNumber=1
