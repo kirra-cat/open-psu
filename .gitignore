@@ -13,10 +13,6 @@ __Previews/
 /hardware/power_load/Project Logs for power_load/
 /hardware/power_load/Project Outputs for power_load/
 
-/hardware/ad-dc-sync-rect/History/
-/hardware/ad-dc-sync-rect/Project Logs for ad-dc-sync-rect/
-/hardware/ad-dc-sync-rect/Project Outputs for ad-dc-sync-rect/
-
 /hardware/ad-dc-1/History/
 /hardware/ad-dc-1/Project Logs for ad-dc-1/
 /hardware/ad-dc-1/Project Outputs for ad-dc-1/
@@ -40,3 +36,11 @@ __Previews/
 /hardware/control_block_wch/History/
 /hardware/control_block_wch/Project Logs for control_block_wch/
 /hardware/control_block_wch/Project Outputs for control_block_wch/
+
+/hardware/sync_rectification_module/History/
+/hardware/sync_rectification_module/Project Logs for sync_rectification_module/
+/hardware/sync_rectification_module/Project Outputs for sync_rectification_module/
+
+/hardware/sync_rectification_module_smd/History/
+/hardware/sync_rectification_module_smd/Project Logs for sync_rectification_module_smd/
+/hardware/sync_rectification_module_smd/Project Outputs for sync_rectification_module_smd/
